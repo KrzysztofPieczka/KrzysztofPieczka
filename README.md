@@ -1,17 +1,12 @@
-## Hi there 👋
-This account is primarily used for my studies, where I explore coding, software development, and various tech-related topics. 
-I'm passionate about learning and experimenting with different tools and technologies to enhance my skills.
-<!--
-**Krzysztof-lab/Krzysztof-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Chris
 
-Here are some ideas to get you started:
+CS student at AGH Kraków, focused on cybersecurity: web security and incident response.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I run a self-hosted MediaWiki site and write up the real incidents I've handled on it:
+
+- 🔓 [Exploited 9.5 Hours After Disclosure: Server Compromise via CVE-2026-100382](https://krzysztofpieczka.github.io/posts/cve-2026-100382-writeup-en/).
+- 🤖 [Multi-stage bot attack: 856 fake accounts in one evening](https://krzysztofpieczka.github.io/posts/bot-attack-mediawiki/)
+
+All write-ups: [krzysztofpieczka.github.io](https://krzysztofpieczka.github.io)
+
+**Tech:** Java · Spring Boot · Python · SQL · Linux · Docker · Burp Suite
